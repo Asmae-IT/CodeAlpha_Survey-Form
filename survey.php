@@ -1,5 +1,4 @@
 <?php
-    // Include the PHP file
     include("db.php");
     ?>
 <!DOCTYPE html>
