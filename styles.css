@@ -8,8 +8,6 @@ html {
 }
 body {
   background-color: rgb(248, 211, 157);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 /******** Header ***********/
 #header {
@@ -44,9 +42,7 @@ body {
   background-color: burlywood;
   border: transparent;
 }
-small {
-  visibility: hidden;
-}
+
 /**************** Page2 ***************/
 #page2 {
   margin-top: -5px;
