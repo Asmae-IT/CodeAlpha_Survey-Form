@@ -35,7 +35,7 @@
         </div>
       </div>
     </div>
-    <div class="container w-50" id="infos">
+    <div class="container w-100" id="infos">
       <hr />
       <p class="p-2 font-weight-bold" id="p-infos">
         Welcome to our TrendyCode Company! We are thrilled to embark on this
@@ -187,7 +187,7 @@
               >Any comments or suggestions ?<span class="text-danger"
                 >*</span
               ></label
-            >
+            ><br />
             <textarea
               name="comments"
               id="comments"
