@@ -1,6 +1,6 @@
-## Code Alpha Survey Form Project
+## Survey Form Project
 
-Welcome to the "Code Alpha Survey Form" project! This project demonstrates the creation of a dynamic survey form using a combination of HTML, CSS, JavaScript, and PHP. The project aims to collect user feedback through an interactive form.
+ This project demonstrates the creation of a dynamic survey form using a combination of HTML, CSS, JavaScript, and PHP. The project aims to collect user feedback through an interactive form.
 
 ## Features
 
